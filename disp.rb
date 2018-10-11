@@ -1,3 +1,2 @@
 #!/usr/bin/ruby -w
-
-"good morning"
+puts "hello"
