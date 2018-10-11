@@ -1,3 +1,3 @@
 #!/usr/bin/ruby -w
 
-puts "good morning"
+"good morning"
